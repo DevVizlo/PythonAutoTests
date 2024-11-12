@@ -1,5 +1,4 @@
 from attr.setters import validate
-
 from pages.form_page import FormPage
 
 def test_validate(browser):
